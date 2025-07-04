@@ -7,4 +7,5 @@ Directions:
      https://universe.roboflow.com/project-board-nshz4/exercise-detector-yg1mt/dataset/14
 4. Create another directory named "roboflow_exercise_images" and place the Roboflow datset inside it
 5. Delete the data.yaml file inside the roboflow_exercise_images directory and replace it with the data.yaml file that is listed in this repository
-6. 
+6. Run the code in order as it appears in the YOLO_exercise_classification_training.ipynb notebook but do not run any cells that either tune or train the model
+7. Run the main.ipynb file in the order that the cells appear

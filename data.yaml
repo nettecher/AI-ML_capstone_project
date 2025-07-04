@@ -1,0 +1,13 @@
+train: F:\LSU_Fullstack_AI_Machine_Learning_Course\capstone_project\roboflow_exercise_images\balanced\train\images
+val: F:\LSU_Fullstack_AI_Machine_Learning_Course\capstone_project\roboflow_exercise_images\balanced\valid\images
+#test: ../test/images
+
+nc: 19
+names: ['barbell biceps curl', 'bench press', 'chest fly', 'deadlift', 'hammer curl', 'hip thrust', 'incline bench press', 'lat pulldown', 'lateral raise', 'leg extension', 'leg raises', 'pull up', 'push up', 'russian twist', 'shoulder press', 'squat', 't bar row', 'tricep dips', 'tricep pushdown']
+
+roboflow:
+  workspace: project-board-nshz4
+  project: exercise-detector-yg1mt
+  version: 14
+  license: Public Domain
+  url: https://universe.roboflow.com/project-board-nshz4/exercise-detector-yg1mt/dataset/14

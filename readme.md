@@ -6,3 +6,5 @@ Directions:
 3. go to this link below to download the processed image dataset from Roboflow. Make sur to download the v14 2025-06-19 11:57am version
      https://universe.roboflow.com/project-board-nshz4/exercise-detector-yg1mt/dataset/14
 4. Create another directory named "roboflow_exercise_images" and place the Roboflow datset inside it
+5. Delete the data.yaml file inside the roboflow_exercise_images directory and replace it with the data.yaml file that is listed in this repository
+6. 
